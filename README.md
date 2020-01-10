@@ -17,6 +17,11 @@ This webpage is used as a landing page for my portfolio. While interacting with 
 
 _There are no known bugs so far in the project!_
 
+## Github link
+
+https://github.com/jesaherman/portfolio
+
+
 ## Support and contact details
 
 _If there are any questions, comments, concerns or constructive feedback please let me know! I can be found at hermanjesa@gmail.com_
