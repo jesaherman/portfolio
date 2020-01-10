@@ -1,11 +1,22 @@
 h1  {
   text-align:center;
+  
+}
+
+.jumbotron {
+  background-color: rgb(190, 224, 190);
+
 }
 
 .jesa1 {
-  display:block;
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
+  float:left;
+  padding:5px;
+  border: 3px solid grey;
+  margin: 10px;
+
+
+
 }
+
+
 
